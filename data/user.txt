@@ -1,0 +1,4 @@
+# id | username | password | is_admin
+1|admin|admin|1
+2|ashkan|123456|0
+3|test_user|123456|0
